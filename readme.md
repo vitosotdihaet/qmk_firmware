@@ -1,3 +1,8 @@
+run 
+```
+qmk flash -kb handwired/dactyl_manuform/5x6 -km default
+```
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
